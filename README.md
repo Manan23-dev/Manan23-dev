@@ -13,7 +13,8 @@ Hi 👋, I'm Manan Patel!
 ### Social Links
 - [GitHub Profile](https://github.com/Manan23-dev)
 - [LinkedIn](https://www.linkedin.com/in/mananpatel23/)
-- [Portfolio](https://manan23.dev)
+- [LeetCode Profile](https://leetcode.com/u/manan_2301/)
+
 
 ---
 
