@@ -1,10 +1,9 @@
-Hi 👋, I'm Manan Patel!
-========================
+# Hi 👋, I'm Manan Patel!
 
 **Software Developer | Backend and ML Enthusiast**
 
 🔭 I’m currently working on a Machine Learning project.  
-🌱 I’m exploring Web 3.0 and immersive technologies.  
+🌱 I’m exploring distributed and scalable systems along with machine learning applications.  
 📫 Reach me at: [manan2301patel@gmail.com](mailto:manan2301patel@gmail.com)  
 ⚡ Fun fact: I’m pursuing a Master’s in Computer Science while creating innovative tech solutions!  
 
@@ -14,7 +13,6 @@ Hi 👋, I'm Manan Patel!
 - [GitHub Profile](https://github.com/Manan23-dev)
 - [LinkedIn](https://www.linkedin.com/in/mananpatel23/)
 - [LeetCode Profile](https://leetcode.com/u/manan_2301/)
-
 
 ---
 
