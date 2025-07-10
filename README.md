@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+%26+ML+Enthusiast;Distributed+Systems+Engineer" alt="Typing SVG" />
 </div>
 
-**Software Developer | Backend and ML Enthusiast**
+**Software Developer | Machine Learning and Backend Enthusiast**
 
-🔭 I'm currently working on a Machine Learning project.  
+🔭 I'm currently working on a Machine Learning project for creating Distributed vector search.  
 🌱 I'm exploring distributed and scalable systems along with machine learning applications.  
 📫 Reach me at: [manan2301patel@gmail.com](mailto:manan2301patel@gmail.com)  
 ⚡ Fun fact: I'm pursuing a Master's in Computer Science while creating innovative tech solutions!  
