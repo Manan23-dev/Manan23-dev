@@ -106,12 +106,12 @@
 
 ### 🌟 Highlighted Projects:
 
-- **[Distributed Vector Search Engine](https://github.com/Manan23-dev)**: Built with Python, FastAPI, PyTorch, Kubernetes - Sub-millisecond query times on 10K+ documents
-- **[LodgingHub: Full-Stack Platform](https://github.com/Manan23-dev)**: React.js, Node.js, MongoDB - Airbnb clone with payment integration
-- **[Blockchain-based Voting System](https://github.com/Manan23-dev/Blockchain-base-dvotings)**: A secure and transparent blockchain voting platform
-- **[Stock Prediction with LSTM](https://github.com/Manan23-dev/stock-prediction)**: Machine learning project predicting stock prices using LSTM
+- **[Distributed Vector Search Engine]([https://github.com/Manan23-dev](https://github.com/Manan23-dev/vector-similarity-search-for-Document-Retrieval): Built with Python, FastAPI, PyTorch, Kubernetes - Sub-millisecond query times on 10K+ documents
+- **[LodgingHub: Full-Stack Platform](https://github.com/Manan23-dev/lodging-hub): React.js, Node.js, MongoDB - Airbnb clone with payment integration
+- **[Blockchain-based Voting System](https://github.com/Manan23-dev/Blockchain-base-dvotings): A secure and transparent blockchain voting platform
+- **[Stock Prediction with LSTM](https://github.com/Manan23-dev/stock-prediction): Machine learning project predicting stock prices using LSTM
 - **[MeetVerse](https://github.com/Manan23-dev/MeetVerse)**: Metaverse-based virtual meeting solution with 3D environments
-- **[SmartSplit](https://github.com/Manan23-dev)**: Flutter expense tracking app with OCR receipt scanning and Firebase
+- **[SmartSplit](https://github.com/Manan23-dev/smartsplit): Flutter expense tracking app with OCR receipt scanning and Firebase
 
 ---
 
